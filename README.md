@@ -27,7 +27,7 @@ Queue indicates medium severity and possible phishing attempt. <br />
 </p>
 <br />
 
-Splunk investgation data matches timestamp and sender information. <br />
+Splunk investigation data matches timestamp and sender information. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/SIEMSplunkLabs/blob/main/image/SplunkSiem3.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
