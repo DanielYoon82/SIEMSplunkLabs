@@ -41,13 +41,6 @@ Company information confirms recipient and email that was targeted. <br />
 </p>
 <br />
 
-Company information confirms recipient and email that was possible targeted. <br />
-<br />
-<p align="center">
-<img src="https://github.com/DanielYoon82/SIEMSplunkLabs/blob/main/image/SplunkSiem4.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
 URL in the email confirms in the tool that it is clean and not malicious. <br />
 <br />
 <p align="center">
