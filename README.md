@@ -1,7 +1,7 @@
 <h1>Home Lab - SIEM Using Splunk</h1>
 
 <h2>Description</h2>
-Here I demonstrate using the Tryhackme VM triaging, investigate using Splunk, and documenting incidents.  
+Here I demonstrate using the Tryhackme VM triaging, investigate using Splunk, and documenting an incident for false positive phishing attempt.
 <br />
  
 
